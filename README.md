@@ -16,7 +16,6 @@
   <a><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/></a>
   
   <br>
-  
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
@@ -24,7 +23,6 @@
 </div>
 
 <br>
-
 <p align = "center">
   I am interested in artificial intelligence such as computer vision.
   <br>
