@@ -26,7 +26,7 @@
 <br>
 
 <p align = "center">
-  I am interested in artificial intelligence such as Computer Vision.
+  I am interested in artificial intelligence such as computer vision.
   <br>
   I want to do things that can help people with artificial intelligence.
 </p>
