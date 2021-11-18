@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouHojoon&count_bg=%239999FF&title_bg=%239999FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align = "center">
-  ✋Hello! I'm majored in computer science at Sangmyung University and a master's degree student in Sangmyung University Pattern Recognition Lab.
+  ✋ Hello! I'm majored in computer science at Sangmyung University and a master's degree student in Sangmyung University Pattern Recognition Lab.
 I am interested in artificial intelligence such as computer vision.
   <br>
 I want to do things that can help people with artificial intelligence. 
