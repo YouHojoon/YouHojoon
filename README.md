@@ -1,5 +1,10 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouHojoon&count_bg=%239999FF&title_bg=%239999FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## 🎈 Introduce
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouHojoon&count_bg=%239999FF&title_bg=%239999FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <p align = "center">
   ✋Hello! I'm majored in computer science at Sangmyung University and a master's degree student in Sangmyung University Pattern Recognition Lab.
 I am interested in artificial intelligence such as computer vision.
@@ -7,15 +12,18 @@ I am interested in artificial intelligence such as computer vision.
 I want to do things that can help people with artificial intelligence. 
 </p>
 
-        
+</div>
 
 ## 🏁 Activity
+<div align="center">
+  
 |        Origanization     |     Contents     |      Date     |
 |:----------------:|:----------------:|:--------------------:|
 |   **Sangmyung University**  | Computer Science |  2016.03 ~ 2021.02|
 | **SK 행복나눔재단** |     SK LOOKIE    |       2019.08 ~ 2021.01     |
 | **Sangmyung University** |   Pattern Recognition Lab   |       2021.09 ~    |
 
+</div>
 
 ## 💻 Skils
 <div align = "center">
@@ -37,16 +45,19 @@ I want to do things that can help people with artificial intelligence.
   <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white"/></a>
+  
 </div>
 
 <br>
 
 
 ## 📝 History
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouHojoon&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Hojoon's github stats](https://github-readme-stats.vercel.app/api?username=YouHojoon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <!--
 **YouHojoon/YouHojoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
