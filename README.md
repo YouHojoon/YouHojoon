@@ -14,7 +14,7 @@ I want to do things that can help people with artificial intelligence.
 
 </div>
 
-## 🏁 Activity
+## 🏁 xperience
 <div align="center">
   
 |        Origanization     |     Contents     |      Date     |
