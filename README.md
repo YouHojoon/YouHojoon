@@ -22,6 +22,7 @@ I want to do things that can help people with artificial intelligence.
 |   **Sangmyung University**  | Computer Science |  2016.03 ~ 2021.02|
 | **SK 행복나눔재단** |     SK LOOKIE    |       2019.08 ~ 2021.01     |
 | **Sangmyung University** |   Pattern Recognition Lab   |       2021.09 ~    |
+| **MakeUs** |  Central MakeUs Challenge |       2022.04 ~    |
 
 </div>
 
