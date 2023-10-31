@@ -21,7 +21,7 @@ I want to do things that can help people with artificial intelligence.
 |:----------------:|:----------------:|:--------------------:|
 |   **Sangmyung University**  | Computer Science |  2016.03 ~ 2021.02|
 | **SK 행복나눔재단** |     SK LOOKIE    |       2019.08 ~ 2021.01     |
-| **Sangmyung University** |   Pattern Recognition Lab   |       2021.09 ~    |
+| **Sangmyung University** |   Pattern Recognition Lab   |       2021.09 ~  2023.02  |
 | **MakeUs** |  Central MakeUs Challenge |       2022.04 ~    2022.07|
 
 </div>
@@ -57,7 +57,7 @@ I want to do things that can help people with artificial intelligence.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouHojoon&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Hojoon's github stats](https://github-readme-stats.vercel.app/api?username=YouHojoon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbghwns11)](https://solved.ac/dbghwns11/)
 </div>
 
 <!--
