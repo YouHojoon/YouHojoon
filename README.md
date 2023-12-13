@@ -22,9 +22,8 @@
 
 ## 💻 Skils
 <div align = "center">
-  <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/></a>
@@ -40,7 +39,8 @@
   <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white"/></a>
-  
+  <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>  
 </div>
 
 <br>
